@@ -14,9 +14,12 @@
 
 ### Решение задачи
 
-```python
-# TODO: you code here...
-```
+a=int(input("Введите а\n"))
+if 100<=a<=999:
+    print ("Это 3х знач")
+else:
+    print ("Не 3х знач")
+
 
 ---
 
